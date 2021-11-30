@@ -75,8 +75,8 @@ node main
 ```
 
 ## Edit file
-- Change ownerNumber on [this section](https://github.com/HYPER-MOD/amultidevice-bot/blob/7a7ebe69cf44686d8a577f616b38b5d299ffefcc/config.json#L2)
-- Change botName on [this section](https://github.com/HYPER-MOD/multidevice-bot/blob/7a7ebe69cf44686d8a577f616b38b5d299ffefcc/config.json#L3)
+- Change ownerNumber on [this section](https://github.com/HYPER-MOD/amultidevice-bot/blob/config.json#L2)
+- Change botName on [this section](https://github.com/HYPER-MOD/multidevice-bot/blob/config.json#L3)
 - You can edit list and display menu or donate on [this section](https://github.com/HYPER-MOD/multidevice-bot/blob/main/help/ind.js)
 - You can add fiture on [this section](https://github.com/HYPER-MOD/multidevice-bot/tree/main/message)
 
