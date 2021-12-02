@@ -20,10 +20,6 @@ exports.emptyMess = () => {
     return `⚠️ කරුණාකර ඔබට පැවසීමට අවශ්‍ය පණිවිඩය ඇතුළු කරන්න! ⚠️`
 }
 
-exports.cmdNotFound = (cmd, prefix) => {
-    return `❎ *${cmd}* විධානය *${prefix}allmenu හි ලැයිස්තුගත කර නොමැත❎`
-}
-
 exports.ownerOnly = () => {
     return `⚠️ මෙම විධානය විශේෂයෙන්ම අයිතිකරු සඳහා වේ!⚠️`
 }
